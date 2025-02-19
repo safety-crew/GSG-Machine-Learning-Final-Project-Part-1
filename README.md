@@ -1,5 +1,4 @@
 # Part 1: Supervised Learning - Classifying Text or Images
-## Short Report:
 ### Data Analysis:
 
 - We have a balanced dataset with 120,000 training samples and 7,600 test samples
