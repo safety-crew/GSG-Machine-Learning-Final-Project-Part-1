@@ -1,7 +1,7 @@
 # Part 1: Supervised Learning - Classifying Text or Images
 ### Data Analysis:
 
-- We have a balanced dataset with 120,000 training samples and 7,600 test samples
+- I have a balanced dataset with 120,000 training samples and 7,600 test samples
 - Each category (World, Sports, Business, Science/Technology) has equal representation
 - The visualization dashboard shows the distribution and sample headlines
 
